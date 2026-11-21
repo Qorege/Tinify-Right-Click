@@ -2,7 +2,9 @@
 
 A lightweight, modern Windows desktop utility to compress images directly from the Windows Explorer right-click context menu using the [Tinify (TinyPNG / TinyJPG) API](https://tinypng.com/developers).
 
-![App Icon](icon.png)
+<p align="center">
+  <img src="screenshot.png" alt="Tiny Right Click UI" width="420" />
+</p>
 
 ## Features
 
